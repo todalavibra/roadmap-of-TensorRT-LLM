@@ -1,0 +1,4 @@
+id,name,value1,value2
+1,A,10,20
+2,B,15,25,extra_value
+3,C,12
